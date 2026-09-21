@@ -50,4 +50,4 @@ Skip does not mean useless. It means no longer worth holding in your head: let t
 - [x] GRASP 九模式
 - [x] GoF 速查
 - [x] AI 代码审查清单
-- [ ] 设计指令模板
+- [x] 设计指令模板
