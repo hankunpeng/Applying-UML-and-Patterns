@@ -49,5 +49,5 @@ Skip does not mean useless. It means no longer worth holding in your head: let t
 - [x] 原则笔记：触发场景 + 反例
 - [x] GRASP 九模式
 - [x] GoF 速查
-- [ ] AI 代码审查清单
+- [x] AI 代码审查清单
 - [ ] 设计指令模板
