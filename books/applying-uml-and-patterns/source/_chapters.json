@@ -1,0 +1,65 @@
+[
+ {
+  "chapter": 9,
+  "slug": "domain-models",
+  "pdf_from": 218,
+  "pdf_to": 271,
+  "chars": 62272
+ },
+ {
+  "chapter": 12,
+  "slug": "requirements-to-design-iteratively",
+  "pdf_from": 308,
+  "pdf_to": 312,
+  "chars": 3414
+ },
+ {
+  "chapter": 17,
+  "slug": "grasp-responsibilities",
+  "pdf_from": 409,
+  "pdf_to": 466,
+  "chars": 88721
+ },
+ {
+  "chapter": 18,
+  "slug": "grasp-examples",
+  "pdf_from": 467,
+  "pdf_to": 511,
+  "chars": 58495
+ },
+ {
+  "chapter": 25,
+  "slug": "grasp-more",
+  "pdf_from": 576,
+  "pdf_to": 598,
+  "chars": 41986
+ },
+ {
+  "chapter": 26,
+  "slug": "gof-patterns",
+  "pdf_from": 599,
+  "pdf_to": 639,
+  "chars": 52946
+ },
+ {
+  "chapter": 33,
+  "slug": "architectural-analysis",
+  "pdf_from": 734,
+  "pdf_to": 758,
+  "chars": 42452
+ },
+ {
+  "chapter": 34,
+  "slug": "logical-architecture-refinement",
+  "pdf_from": 759,
+  "pdf_to": 780,
+  "chars": 26412
+ },
+ {
+  "chapter": 38,
+  "slug": "persistence-framework",
+  "pdf_from": 833,
+  "pdf_to": 868,
+  "chars": 40634
+ }
+]

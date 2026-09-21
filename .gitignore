@@ -1,0 +1,4 @@
+.workbuddy/
+
+books/**/.cangjie/
+books/**/source/ch*.txt
