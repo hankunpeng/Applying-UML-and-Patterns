@@ -1,4 +1,5 @@
 .workbuddy/
+.DS_Store
 
 books/**/.cangjie/
 books/**/source/ch*.txt
